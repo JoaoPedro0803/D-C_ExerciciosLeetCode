@@ -15,27 +15,27 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ## Screenshots
 ### Exercício 1 (Médio) - [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
 [**Código:**]()<br>
-![Different Ways to Add Parentheses](/assets/AddParFuncionando.png)
+![Different Ways to Add Parentheses](/assets/AddParFuncionando.PNG)
 
 ### Exercício 2 (Médio) - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 [**Código:**]()<br>
-![Maximum Subarray](/assets/MaxFuncionando.png)
+![Maximum Subarray](/assets/MaxFuncionando.PNG)
 
 ### Exercício 3 (Difícil) - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 [**Código:**]()<br>
-![Merge k Sorted Lists](/assets/MergeFuncionando.png)
+![Merge k Sorted Lists](/assets/mergeFuncionando.PNG)
 
-### Exercício 4 (Médio) - [Car Pooling](https://leetcode.com/problems/car-pooling/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/Car%20Pooling/car.py)<br>
-![Car Pooling](/assets/CarPooling_Working.PNG)
+### Exercício 4 (Médio) - []()
+[**Código:**]()<br>
+![](/assets/)
 
-### Exercício 5 (Médio) - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/Merge%20Intervals/merge.py)<br>
-![Merge Intervals](/assets/MergeIntervals_Working.PNG)
+### Exercício 5 (Médio) - []()
+[**Código:**]()<br>
+![](/assets/)
 
-### Exercício 6 (Difícil) - [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/Maximum%20Number%20of%20Non-Overlapping%20Substrings/max.py)<br>
-![Maximum Number of Non-Overlapping Substrings](/assets/Max_Working.PNG)
+### Exercício 6 (Difícil) - []()
+[**Código:**]()<br>
+![](/assets/)
 
 
 ### Vídeo de Apresentação
