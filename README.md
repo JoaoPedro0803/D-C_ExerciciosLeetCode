@@ -14,27 +14,27 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 ## Screenshots
 ### Exercício 1 (Médio) - [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/Different%20Ways%20to%20Add%20Parentheses/AddPar.py)<br>
+[**Código**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/Different%20Ways%20to%20Add%20Parentheses/AddPar.py)<br>
 ![Different Ways to Add Parentheses](/assets/AddParFuncionando.PNG)
 
 ### Exercício 2 (Médio) - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/Maximum%20Subarray/Max.py)<br>
+[**Código**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/Maximum%20Subarray/Max.py)<br>
 ![Maximum Subarray](/assets/MaxFuncionando.PNG)
 
 ### Exercício 3 (Difícil) - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/Merge%20k%20Sorted%20Lists/Merge.py)<br>
+[**Código**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/Merge%20k%20Sorted%20Lists/Merge.py)<br>
 ![Merge k Sorted Lists](/assets/mergeFuncionando.PNG)
 
 ### Exercício 4 (Médio) - []()
-[**Código:**]()<br>
+[**Código**]()<br>
 ![](/assets/)
 
 ### Exercício 5 (Médio) - []()
-[**Código:**]()<br>
+[**Código**]()<br>
 ![](/assets/)
 
 ### Exercício 6 (Difícil) - []()
-[**Código:**]()<br>
+[**Código**]()<br>
 ![](/assets/)
 
 
