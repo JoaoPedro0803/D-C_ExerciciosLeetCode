@@ -1,2 +1,2 @@
 # Enunciado
-![Explicação](../assets/MergeTudo.PNG)
+![Explicação](../assets/mergeTudo.PNG)
