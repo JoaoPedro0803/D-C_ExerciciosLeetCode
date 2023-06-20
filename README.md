@@ -33,10 +33,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 ![Kth Largest Element in an Array](/assets/KthLargestElement_Resultado.png)
 
-### Exercício 5 (Médio) - []()
-[**Código**]()<br>
+### Exercício 5 (Médio) - [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/description/)
+[**Código**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/FindTheKthLargestInteger/findTheKthLargestInteger.py)<br>
 
-![](/assets/)
+![Find the Kth Largest Integer in the Array](/assets/FindTheKthLargestInteger_Resultado.png)
 
 ### Exercício 6 (Difícil) - []()
 [**Código**]()<br>
