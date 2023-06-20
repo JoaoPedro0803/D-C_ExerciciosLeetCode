@@ -28,10 +28,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 ![Merge k Sorted Lists](/assets/mergeFuncionando.PNG)
 
-### Exercício 4 (Médio) - []()
-[**Código**]()<br>
+### Exercício 4 (Médio) - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+[**Código**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/KthLargestElement/kthLargestElement.py)<br>
 
-![](/assets/)
+![Kth Largest Element in an Array](/assets/KthLargestElement_Resultado.png)
 
 ### Exercício 5 (Médio) - []()
 [**Código**]()<br>
