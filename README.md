@@ -10,7 +10,7 @@
 | 20/0020650  |  [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
 
 ## Sobre 
-Esse projeto tem por objetivo a resolução de questões encontradas no leet code, com o intuito de mostrar o nosso aprendizado no primeiro módulo de Dividir e Conquistar, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
+Esse projeto tem por objetivo a resolução de questões encontradas no leet code, com o intuito de mostrar o nosso aprendizado no módulo de Dividir e Conquistar, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
 
 ## Screenshots
 ### Exercício 1 (Médio) - [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)
