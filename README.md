@@ -38,10 +38,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 ![Find the Kth Largest Integer in the Array](/assets/FindTheKthLargestInteger_Resultado.png)
 
-### Exercício 6 (Difícil) - []()
-[**Código**]()<br>
+### Exercício 6 (Difícil) - [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+[**Código**](https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/blob/master/CountOfSmallerNumber/countOfSmallerNumber.py)<br>
 
-![](/assets/)
+![Count of Smaller Numbers After Self](/assets/CountOfSmallerNumber_Resultado.png)
 
 
 ### Vídeo de Apresentação
