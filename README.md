@@ -45,7 +45,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 
 ### Vídeo de Apresentação
-[Link para o Vídeo de Apresentação da Dupla 1]()
+[Link para o Vídeo de Apresentação da Dupla 1](https://youtu.be/XxtUy0ZfSOo)
 
 ## Instalação 
 **Linguagem**: Python<br>
