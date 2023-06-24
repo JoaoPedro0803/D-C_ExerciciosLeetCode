@@ -45,7 +45,9 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 
 ### Vídeo de Apresentação
-[Link para o Vídeo de Apresentação da Dupla 1](https://youtu.be/XxtUy0ZfSOo)
+[Link para o Vídeo de Apresentação da Dupla 1 - YouTube](https://youtu.be/XxtUy0ZfSOo)
+
+https://github.com/projeto-de-algoritmos/D-C_Exercicios_LeetCode/assets/78980903/79b83967-0a9a-40fa-90f1-3c5d2579f9ac
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -66,7 +68,6 @@ Cole o código copiado no editor.
 
 ### Passo 5: Rodar o código
 Abaixo do editor de código, clique em `Run` para executar o código.
-
 
 
 
